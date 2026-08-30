@@ -1,24 +1,28 @@
 # 📊 GCC Enterprise Google Ads Performance & Acquisition Audit
 
-An end-to-end multi-channel paid media audit analyzing real search campaign performance across **45 campaigns** targeting the Middle East market. The project evaluates total ad spend efficiency, conversion rates (CVR), cost-per-lead (CPL), and campaign-level B2B optimization strategies.
+An end-to-end multi-channel paid media audit analyzing real search campaign performance across **45 search & Performance Max campaigns** targeting the Middle East market (Saudi Arabia, UAE, Qatar, Kuwait). The project evaluates overall ad spend efficiency, conversion rates (CVR), cost-per-lead (CPL), and campaign-level B2B optimization strategies for enterprise corporate training verticals (NEBOSH, BICSc, Defensive Driving, Fire Safety, PMP).
 
 ---
 
-## 🚀 Key Metric Highlights (Real Google Ads Data)
-* **Total Ad Spend Evaluated:** **AED 277,479.42** (High-budget GCC search account management).
-* **Total High-Intent Clicks:** **90,033 clicks** with an average CTR of **6.37%** and Avg. CPC of **AED 3.08**.
-* **Conversions Driven:** **12,591.08 qualified leads** generated at an average Cost/Conv (CPL) of **AED 22.04**.
-* **Peak B2B Campaign Conversion Rate:** Reached up to **16.35% CVR** on specialized B2B intent search campaigns (BICSc B2B).
+## 🚀 Key Metric Highlights (Verified Account Performance)
+* **Total Account Ad Spend:** **AED 277,479.42** across 45 campaigns.
+* **High-Intent Traffic:** **90,033 clicks** generated at a blended Average CPC of **AED 3.08**.
+* **Total Qualified Conversions:** **12,591.06 leads/conversions** driven at an average Cost/Conv (CPL) of **AED 22.04**.
+* **Blended Account Conversion Rate:** **13.98%** across all active and legacy ad groups.
 
 ---
 
-## 📈 Search Campaign Performance Matrix
+## 📈 Top Performing Campaign Breakdown (Real Spend Data)
 
-| Campaign Category / Type | Total Clicks | CTR (%) | Avg. CPC | Total Cost (AED) | Conversions | Cost / Conv. (CPL) | Conv. Rate (%) |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **BICS Aug 2024 Campaign B2B** | 1,638 | 13.88% | AED 5.59 | AED 9,152.54 | 267.76 | AED 34.18 | **16.35%** |
-| **BICS May 2025 Search Campaign** | 2,005 | 14.44% | AED 8.18 | AED 16,401.51 | 247.01 | AED 66.40 | **12.32%** |
-| **Account Blended Total (45 Campaigns)** | **90,033** | **6.37%** | **AED 3.08** | **AED 277,479.42** | **12,591.08** | **AED 22.04** | **11.81%** |
+| Campaign Name | Vertical / Category | Type | Clicks | Total Cost (AED) | Conversions | Cost / Conv. (CPL) | Conv. Rate (%) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Defensive Drive May 2025** | Fleet & Driver Safety | Search | 5,719 | AED 38,786.92 | 274.68 | AED 141.21 | 4.80% |
+| **Fire Safety B2B May 2025** | Civil Defense & HSE | Search | 7,718 | AED 38,755.42 | 1,047.14 | AED 37.01 | **13.57%** |
+| **First Aid May 2025** | Workplace Emergency | Search | 11,146 | AED 29,556.27 | 1,403.40 | AED 21.06 | **12.59%** |
+| **Nebosh IGC Search** | Safety Certifications | Search | 13,567 | AED 26,046.85 | 985.67 | AED 26.43 | 7.27% |
+| **BICSc Search** | Soft Services / Cleaning | Search | 9,661 | AED 18,814.67 | 845.33 | AED 22.26 | 8.75% |
+| **NEBOSH IGC 2026 JAN Ads** | International HSE | Search | 4,115 | AED 10,774.65 | 998.99 | **AED 10.79** | **24.28%** |
+| **Account Blended Total (45 Campaigns)** | **All Categories** | **Search / PMax** | **90,033** | **AED 277,479.42** | **12,591.06** | **AED 22.04** | **13.98%** |
 
 ---
 
@@ -27,13 +31,13 @@ An end-to-end multi-channel paid media audit analyzing real search campaign perf
 
 ---
 
-## 💡 Account Strategy & Insights
-1. **High B2B Intent Scaling:** Target high-intent commercial keywords (e.g., BICSc certifications / B2B training) delivered exceptional CTRs (>14%) and conversion rates up to **16.35%**.
-2. **CPL Optimization:** Maintained an overall account-wide lead cost of **AED 22.04**, balancing high-volume low-cost leads with high-value B2B procurement queries.
-3. **Negative Keyword Filtering:** Restructured ad groups to eliminate irrelevant non-commercial search traffic, stabilizing the average CPC at **AED 3.08** across competitive Middle East markets.
+## 💡 Strategic Takeaways & Key Accomplishments
+1. **Vertical Scalability:** High-intent compliance keywords (Fire Safety B2B & First Aid) drove over 2,400+ conversions alone while keeping CPL below AED 37.00.
+2. **CPL Reduction in NEBOSH Campaigns:** Iterative optimizations from legacy search campaigns to the 2026 JAN Search strategy reduced CPL from **AED 26.43 down to AED 10.79** while pushing conversion rates up to **24.28%**.
+3. **Negative Keyword Guardrails:** Controlled CPC inflation across competitive GCC keywords, stabilizing the average cost-per-click at **AED 3.08** across high-volume search traffic.
 
 ---
 
-## 🛠️ Tools & Stack
-* **Ad Platform:** Google Ads Manager / Report Editor.
+## 🛠️ Tools & Technologies Used
+* **Ad Platforms:** Google Ads Manager, Google Performance Max.
 * **Data & Analytics:** Python (Pandas), SQL, Excel, Power BI.
