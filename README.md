@@ -1,43 +1,54 @@
-# 📊 GCC Enterprise Google Ads Performance & Acquisition Audit
+# 📊 GCC Enterprise Paid Ads & Zoho CRM Revenue Attribution Audit
 
-An end-to-end multi-channel paid media audit analyzing real search campaign performance across **45 search & Performance Max campaigns** targeting the Middle East market (Saudi Arabia, UAE, Qatar, Kuwait). The project evaluates overall ad spend efficiency, conversion rates (CVR), cost-per-lead (CPL), and campaign-level B2B optimization strategies for enterprise corporate training verticals (NEBOSH, BICSc, Defensive Driving, Fire Safety, PMP).
-
----
-
-## 🚀 Key Metric Highlights (Verified Account Performance)
-* **Total Account Ad Spend:** **AED 277,479.42** across 45 campaigns.
-* **High-Intent Traffic:** **90,033 clicks** generated at a blended Average CPC of **AED 3.08**.
-* **Total Qualified Conversions:** **12,591.06 leads/conversions** driven at an average Cost/Conv (CPL) of **AED 22.04**.
-* **Blended Account Conversion Rate:** **13.98%** across all active and legacy ad groups.
+An end-to-end multi-channel growth analytics and performance media audit evaluating **45 Google Ads Search & Performance Max campaigns (AED 277k+ spend)** integrated directly with **Zoho CRM pipeline attribution (SR 1.00M+ revenue)** across Middle East markets (KSA, UAE, Qatar, Kuwait).
 
 ---
 
-## 📈 Top Performing Campaign Breakdown (Real Spend Data)
+## 🎯 Executive Impact Summary
+* **Ad Account Spend Managed:** **AED 277,479.42** across enterprise compliance verticals (NEBOSH, BICSc, Defensive Driving, Fire Safety, PMP).
+* **Ad Traffic Delivered:** **90,033 qualified clicks** at an Avg. CPC of **AED 3.08**.
+* **CRM Closed Revenue Validated:** **SR 1,003,214.11** across **277 closed-won deals**.
+* **Active Pipeline Pipeline:** **SR 890,419.82** in open marketing proposals (110 active deals).
 
-| Campaign Name | Vertical / Category | Type | Clicks | Total Cost (AED) | Conversions | Cost / Conv. (CPL) | Conv. Rate (%) |
+---
+
+## 📈 SECTION 1: Google Ads Performance Matrix (Ad Spend & Leads)
+
+| Campaign Name | Category / Vertical | Type | Clicks | Total Cost (AED) | Conversions | Cost / Conv. (CPL) | Conv. Rate (%) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Defensive Drive May 2025** | Fleet & Driver Safety | Search | 5,719 | AED 38,786.92 | 274.68 | AED 141.21 | 4.80% |
-| **Fire Safety B2B May 2025** | Civil Defense & HSE | Search | 7,718 | AED 38,755.42 | 1,047.14 | AED 37.01 | **13.57%** |
-| **First Aid May 2025** | Workplace Emergency | Search | 11,146 | AED 29,556.27 | 1,403.40 | AED 21.06 | **12.59%** |
+| **Defensive Drive May 2025** | Fleet Safety | Search | 5,719 | AED 38,786.92 | 274.68 | AED 141.21 | 4.80% |
+| **Fire Safety B2B May 2025** | Civil Defense | Search | 7,718 | AED 38,755.42 | 1,047.14 | AED 37.01 | **13.57%** |
+| **First Aid May 2025** | Emergency HSE | Search | 11,146 | AED 29,556.27 | 1,403.40 | AED 21.06 | **12.59%** |
 | **Nebosh IGC Search** | Safety Certifications | Search | 13,567 | AED 26,046.85 | 985.67 | AED 26.43 | 7.27% |
-| **BICSc Search** | Soft Services / Cleaning | Search | 9,661 | AED 18,814.67 | 845.33 | AED 22.26 | 8.75% |
+| **BICSc Search** | Soft Services | Search | 9,661 | AED 18,814.67 | 845.33 | AED 22.26 | 8.75% |
 | **NEBOSH IGC 2026 JAN Ads** | International HSE | Search | 4,115 | AED 10,774.65 | 998.99 | **AED 10.79** | **24.28%** |
-| **Account Blended Total (45 Campaigns)** | **All Categories** | **Search / PMax** | **90,033** | **AED 277,479.42** | **12,591.06** | **AED 22.04** | **13.98%** |
+| **Account Blended Total (45 Campaigns)** | **All Verticals** | **Search/PMax** | **90,033** | **AED 277,479.42** | **12,591.06** | **AED 22.04** | **13.98%** |
 
 ---
 
-## 📸 Account Performance Verification
+## 📊 SECTION 2: Zoho CRM Revenue & Pipeline Funnel Matrix
+
+| CRM Pipeline Stage | Record Count | Stage Conversion Rate | Total Value / Yield |
+| :--- | :---: | :---: | :---: |
+| **Total Inbound CRM Leads** | **6,984** | — | 100% Volume |
+| **Converted Opportunities** | **525** | **7.5%** (Lead-to-Opp) | Sales Qualified |
+| **Closed-Won Marketing Deals** | **307** | **58.5%** (Opp-to-Win) | **SR 1,003,214.11** |
+| **Open Proposal Pipeline** | **110** | — | **SR 890,419.82** |
+| **Average Deal Size** | — | — | **SR 3,621.71 / Deal** |
+
+---
+
+## 📸 Proof of Implementation & Dashboards
+
+### 1. Google Ads Campaign Performance (Report Editor)
 ![Google Ads Campaign Performance Overview](images/ads_dashboard_overview.png)
 
----
-
-## 💡 Strategic Takeaways & Key Accomplishments
-1. **Vertical Scalability:** High-intent compliance keywords (Fire Safety B2B & First Aid) drove over 2,400+ conversions alone while keeping CPL below AED 37.00.
-2. **CPL Reduction in NEBOSH Campaigns:** Iterative optimizations from legacy search campaigns to the 2026 JAN Search strategy reduced CPL from **AED 26.43 down to AED 10.79** while pushing conversion rates up to **24.28%**.
-3. **Negative Keyword Guardrails:** Controlled CPC inflation across competitive GCC keywords, stabilizing the average cost-per-click at **AED 3.08** across high-volume search traffic.
+### 2. Zoho CRM Sales Pipeline & Lead Conversion Analytics
+![Zoho CRM Lead Conversion Matrix](images/crm_pipeline_funnel.png)
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🛠️ Stack & Infrastructure
 * **Ad Platforms:** Google Ads Manager, Google Performance Max.
-* **Data & Analytics:** Python (Pandas), SQL, Excel, Power BI.
+* **CRM & Attribution Engine:** Zoho CRM Analytics (Custom Dashboard Pipelines).
+* **Analytics Stack:** Python (Pandas), SQL, Power BI, Excel.
