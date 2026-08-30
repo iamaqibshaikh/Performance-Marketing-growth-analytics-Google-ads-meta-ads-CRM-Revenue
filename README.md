@@ -41,10 +41,12 @@ An end-to-end multi-channel growth analytics and performance media audit evaluat
 ## 📸 Proof of Implementation & Dashboards
 
 ### 1. Google Ads Campaign Performance (Report Editor)
-![Google Ads Campaign Performance Overview](images/ads_dashboard_overview.png)
+<img width="1366" height="768" alt="google_ads_report png" src="https://github.com/user-attachments/assets/4e4d2620-6011-4744-8d32-783308353731" />
+
 
 ### 2. Zoho CRM Sales Pipeline & Lead Conversion Analytics
-![Zoho CRM Lead Conversion Matrix](images/crm_pipeline_funnel.png)
+<img width="1366" height="768" alt="zoho_crm_dashboard png" src="https://github.com/user-attachments/assets/71720d1e-8a0f-42ac-bc5e-daef3cbe6832" />
+
 
 ---
 
